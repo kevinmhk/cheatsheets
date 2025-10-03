@@ -1,0 +1,34 @@
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Build and distribution directories
+build/
+dist/
+
+# Cache directories
+.cache/
+
+# Virtual environments
+.venv/
+
+# Temporary files
+tmp/
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*.backup
+
+# IDE files
+.vscode/
+.idea/
