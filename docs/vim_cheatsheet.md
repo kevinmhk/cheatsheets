@@ -38,7 +38,7 @@ Vim has several modes of operation.
 | `$` | Move to the end of the line. |
 | `gg` | Go to the first line of the file. |
 | `G` | Go to the last line of the file. |
-| `:{n}` | Go to line number `n`. |
+| `:n` | Go to line number `n`. |
 | `Ctrl+B` | Page Up (scroll up one full screen). |
 | `Ctrl+F` | Page Down (scroll down one full screen). |
 | `Ctrl+U` | Scroll up half a screen. |
